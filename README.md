@@ -18,5 +18,5 @@ A k8s service will be created with a ClusterIP configuration exposing two ports:
 To uninstall/delete the my-release deployment:
 
 ``````
-helm delete my-release --purge
+helm delete my-release 
 ``````
